@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Bhavesh",
+      "email": "bhaveshmalviya978334@gmail.com",
+      "password": "12345",
+      "role": 1
+    },
+    {
+      "id": 2,
+      "name": "rajveer",
+      "email": "viholrajveer@gmail.com",
+      "password": "81213",
+      "role": 2
+    },
+    {
+      "id": 3,
+      "name": "manav",
+      "email": "manavsolanki@gmail.com",
+      "password": "123",
+      "role": 2
+    },
+    {
+      "name": "yash",
+      "password": "123",
+      "email": "yashpatel@gmail.com",
+      "role": 2,
+      "id": 4
+    },
+    {
+      "name": "vipul`",
+      "password": "1234",
+      "email": "vipul@gmail.com",
+      "role": 2,
+      "id": 5
+    },
+    {
+      "name": "almas",
+      "password": "123",
+      "email": "almas@gmail.com",
+      "role": 2,
+      "id": 6
+    }
+  ]
+}
