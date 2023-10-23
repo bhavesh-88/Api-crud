@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Bhavesh",
+      "email": "bhaveshmalviya978334@gmail.com",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "rajveer",
+      "email": "viholrajveer@gmail.com",
+      "password": "81213",
+      "role": "admin"
+    },
+    {
+      "id": 3,
+      "name": "manav",
+      "email": "manavsolanki@gmail.com",
+      "password": "45123",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "name": "viput",
+      "email": "vipulmamekiya@gmail.com",
+      "password": "651223",
+      "role": "user"
+    }
+  ]
+}
